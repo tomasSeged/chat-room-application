@@ -12,5 +12,5 @@ How to Run:
 - Run server
 	=> java Server
 	
-- Run as many clients as needed. 
-	=> java CLient.
+- Run as many clients as you want. 
+	=> java Client
