@@ -1,6 +1,6 @@
-# chat-room-using-tcp
+# chat-room-application
 
-A chat room using TCP connection using Java. Using one central server, multiple clients (by using threading) will be able to join the chat room and communicate. Clients also have the ability to change their names. In addition, they will also be able to quit the chatroom.
+A chat room Java application. Using one central server, multiple clients (by using threading) will be able to join the chat room and communicate. Clients also have the ability to change their names. In addition, they will also be able to quit the chatroom. Implemented using TCP application protocol.
 
 For this project, I used the local IP to host the server. However, it can be changed to another Server's IP address.
 [To run the central server using another Server's IP address, change the IP address in line 40 of CLient.java.]
